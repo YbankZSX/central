@@ -32,8 +32,8 @@
           <url>http://121.40.56.224:8080/manager/text</url>
           <server>tomcat</server>
           <update>true</update>
-          <username>admin</username>
-          <password>admin</password>
+          <username>tomcat</username>
+          <password>tomcat</password>
         </configuration>
       </plugin>
     </plugins>
